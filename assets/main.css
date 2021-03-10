@@ -1,0 +1,24 @@
+:root {
+  --color: #243746;
+  --color-primary: #2489f5;
+  --color-secondary: #0e2233;
+  --bg: #f3f5f4;
+  --bg-secondary: #fff;
+  --border-color: #ddd;
+  --bg-footer: #272a30;
+}
+
+.dark-mode {
+  --color: #ebf4f1;
+  --color-primary: #2489f5;
+  --color-secondary: #fdf9f3;
+  --bg: #202327;
+  --bg-secondary: #272a30;
+  --border-color: #0d2538;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--color);
+  overflow-y: scroll;
+}

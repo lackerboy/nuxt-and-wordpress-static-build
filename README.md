@@ -1,3 +1,3 @@
 # Статический сайт на Nuxt & Wordpress
 
-[Ссылка на демо](https://deercode.landingworld.ru/).
+[Ссылка на демо](http://blog.iamlacoj.beget.tech/).
